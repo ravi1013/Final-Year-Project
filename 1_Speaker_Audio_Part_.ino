@@ -1,4 +1,5 @@
-                   /*Defence Entrance Security System*/           
+     // Full code is not added.
+           /*Defence Entrance Security System*/           
                       //Audio Part
 
 
